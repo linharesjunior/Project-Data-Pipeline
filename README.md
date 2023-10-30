@@ -36,13 +36,13 @@ requests
 3. Location-Based Price Variations
 4. Correlation with Average Wage in Spain
 
-# Seasonal Price Fluctuations: Investigating how rental prices vary throughout the year, identifying seasonal trends, and understanding the impact of these fluctuations.
+- Seasonal Price Fluctuations: Investigating how rental prices vary throughout the year, identifying seasonal trends, and understanding the impact of these fluctuations.
 
-# External Events: Examining how external factors or events may influence rental prices, providing insights into the market's responsiveness to changes.
+- External Events: Examining how external factors or events may influence rental prices, providing insights into the market's responsiveness to changes.
 
-# Location-Based Price Variations: Analyzing how rental prices differ across various neighborhoods and districts in Barcelona, uncovering location-based trends and disparities.
+- Location-Based Price Variations: Analyzing how rental prices differ across various neighborhoods and districts in Barcelona, uncovering location-based trends and disparities.
 
-# Correlation with Average Wage in Spain: Exploring the relationship between average rental prices and the average wage in Spain, shedding light on economic factors affecting the rental market.
+- Correlation with Average Wage in Spain: Exploring the relationship between average rental prices and the average wage in Spain, shedding light on economic factors affecting the rental market.
 
 
 # Conclusion
