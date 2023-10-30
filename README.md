@@ -22,12 +22,12 @@ It's important to note that the dataset used for this project was sourced from K
 
 # Libraries
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
-BeautifulSoup
-requests
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- BeautifulSoup
+- requests
 
 # Hypotheses 
 
@@ -47,19 +47,19 @@ requests
 
 # Conclusion
 
-Rent Trends:
+- Rent Trends:
 
 Throughout the period of 2014 to 2022, the dataset reveals a noticeable and consistent upward trend in Barcelona's rental prices. However, an anomaly was observed in 2020, coinciding with the COVID-19 pandemic. During this unprecedented event, there was a temporary decrease in rental prices, reflecting the economic uncertainty and disruptions caused by the pandemic. The overall upward trajectory of rent prices, though interrupted momentarily, suggests a robust and resilient rental market in Barcelona.
 
-Yearly Percentage Changes:
+- Yearly Percentage Changes:
 
 The data analysis highlights substantial variations in annual rent price changes. Notably, from 2021 to 2022, the average rent prices experienced a moderate 7.21% increase. This suggests a gradual recovery from the pandemic's impact, as individuals and families adapted to new living arrangements and economic conditions. However, the most remarkable observation is the sharp acceleration in rent price growth when comparing 2022 to 2023, where the increase surged to 18.71%. This surge may be indicative of various factors, including increased demand, supply constraints, or changes in economic conditions. The substantial jump in 2023 warrants further investigation to understand the driving forces behind this surge.
 
-Stable Neighborhood Prices:
+- Stable Neighborhood Prices:
 
 Analyzing the data also unveiled that specific neighborhoods in Barcelona have consistently maintained high rent prices over the years. This indicates the existence of stable and desirable residential areas where rental costs remain consistently high. Identifying these neighborhoods can be valuable for both renters and property investors seeking stable returns on their investments.
 
-Wage Comparison:
+- Wage Comparison:
 
 An intriguing finding is the relatively minimal variation in salary trends when compared to the fluctuation in rental prices. While rent prices have exhibited notable changes over the years, the average wage in Spain has remained relatively steady. This suggests a divergence in economic dynamics, where rent prices may be influenced by factors other than average wage growth. Understanding the drivers of rent price changes beyond wage trends is crucial for a comprehensive view of the Barcelona rental market.
 
